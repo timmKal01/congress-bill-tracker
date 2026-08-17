@@ -1,0 +1,11 @@
+{
+    "actorOutputSchemaVersion": 1,
+    "title": "Output schema of Congress Bill Tracker",
+    "properties": {
+        "results": {
+            "type": "string",
+            "title": "Bills",
+            "template": "{{links.apiDefaultDatasetUrl}}/items"
+        }
+    }
+}
