@@ -1,7 +1,7 @@
 {
     "actorSpecification": 1,
     "name": "congress-bill-tracker",
-    "title": "Congress Bill Tracker",
+    "title": "Congress Bill Tracker: New US Legislation",
     "description": "Track new and recently updated U.S. federal bills by keyword, sponsor state, congress, or status via the public GovTrack.us API: bill number, title, sponsor, chamber, and current legislative status. For policy, government-affairs, and lobbying teams.",
     "version": "0.1",
     "meta": {
